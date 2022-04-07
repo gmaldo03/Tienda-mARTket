@@ -3,6 +3,23 @@ body{
     
 }
 
-.crear{
-    
+
+.container{
+    background-color: rgba(255, 255, 255, 0.764);
+    width: 520px;
+    height: 250px;
+    margin-top: 150px;
+    border-radius: 10px;
+}
+
+.form-label{
+    margin-top: 10px;
+}
+
+.form-text{
+    color: black;
+}
+
+.btn-outline-dark{
+    margin-left: 10px;
 }

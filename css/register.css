@@ -4,15 +4,22 @@ body{
 }
 
 .container{
-    background-color: white;
+    background-color: rgba(179, 175, 175, 0.881);
     width: 520px;
     height: 500px;
     margin-top: 150px;
     border-radius: 10px;
 }
-
 .ingresar{
     padding-top: 20px;
     width: 500px;
     height: 300px;
+}
+
+.form-text{
+    color: black;
+}
+
+.btn-outline-dark{
+    margin-left: 10px;
 }
