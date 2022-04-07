@@ -6,12 +6,13 @@ body{
 .container{
     background-color: white;
     width: 520px;
-    height: 250px;
+    height: 500px;
     margin-top: 150px;
     border-radius: 10px;
 }
 
 .ingresar{
+    padding-top: 20px;
     width: 500px;
     height: 300px;
 }
