@@ -10,6 +10,11 @@ body{
     margin-top: 150px;
     border-radius: 10px;
 }
+
+.container a{
+    text-decoration: none;
+}
+
 .ingresar{
     padding-top: 20px;
     width: 500px;
