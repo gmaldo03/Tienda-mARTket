@@ -13,3 +13,8 @@ body {
 .imgIntro {
     background-image: url(/Assets/fondoIntro2.0.jpg);
 }
+
+.registro{
+    padding-left: 300px; 
+    margin-top: 8px;
+}
